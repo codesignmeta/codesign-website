@@ -1,28 +1,39 @@
 ---
 title: This post contains a code sample
-metaDescription: Add code samples to your markdown files
-date: 2019-01-01T00:00:00.000Z
-author: John Appleseed
-summary: Add code samples to your markdown files
+date: 2022-02-21T19:28:10.777Z
+author: D
+summary: |-
+  #### [NFT gallery house](https://play.decentraland.org/?position=9,150)
+
+  ![NFT Gallery building](/static/img/final.png "NFT Gallery building")
+metaDescription: NFT Gallery
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - Decentraland
+  - building
+  - scene
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+#### [NFT gallery house](https://play.decentraland.org/?position=9,150)
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+![NFT Gallery building](/static/img/final.png "NFT Gallery building")
 
-## Section Header
+**Features**
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+* Custom designed building
+* Automatic door opening
+* Custom music and video playback
+* NFT exhibition
+* Automated toys
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Based on initial discussions we came up with multiple sketches and chose the following version:
+
+![NFT Gallery Drawing](/static/img/drawing.jpg "NFT Gallery Drawing")
+
+We created the 3d model:
+
+![NFT Gallery 3d model](/static/img/model.png "NFT Gallery 3d model")
+
+Then we used Decentraland Builder for finishing touches and programmed some custom components to make the experience really interactive, visit the building on: <!--StartFragment-->
+
+[https://play.decentraland.org/?position=9,150](https://play.decentraland.org/?position=9,150 "https\://play.decentraland.org/?position=9,150")
+
+<!--EndFragment-->
