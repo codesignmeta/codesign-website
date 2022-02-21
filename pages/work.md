@@ -1,35 +1,34 @@
 ---
-title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
-date: 2021-03-15T06:33:06.713Z
-permalink: /work/index.html
+title: Portfolio - Our recent works
+subtitle: ""
+date: 2022-02-21T16:03:25.085Z
+permalink: /portfolio/index.html
 eleventyNavigation:
   order: 3
-  key: Work
+  key: Portfolio
 ---
-### 👩‍💻 Experience:
+#### [NFT gallery house](https://play.decentraland.org/?position=9,150)
 
-#### Tesla
+![NFT Gallery building](/static/img/final.png "NFT Gallery building")
 
-**Senior Software Engineer** *(2019 - Current)*
+**Features**
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+* Custom designed building
+* Automatic door opening
+* Custom music and video playback
+* NFT exhibition
+* Automated toys
 
-#### Microsoft
+Based on initial discussions we came up with multiple sketches and chose the following version:
 
-**Software Engineer** *(2014 - 2019)*
+![NFT Gallery Drawing](/static/img/drawing.jpg "NFT Gallery Drawing")
 
-* Maintained legacy Internet Explorer for 5 long years
+We created the 3d model:
 
-- - -
+![NFT Gallery 3d model](/static/img/model.png "NFT Gallery 3d model")
 
-### 📚 Education:
+Then we used Decentraland Builder for finishing touches and programmed some custom components to make the experience really interactive, visit the building on: <!--StartFragment-->
 
-#### Harvard
+[https://play.decentraland.org/?position=9,150](https://play.decentraland.org/?position=9,150 "https\://play.decentraland.org/?position=9,150")
 
-**PhD Astronomy** *(2014 - 2015)*
-
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+<!--EndFragment-->
