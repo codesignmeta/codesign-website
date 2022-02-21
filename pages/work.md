@@ -2,7 +2,7 @@
 title: DELETE
 subtitle: ""
 date: 2022-02-21T16:03:25.085Z
-permalink: /portfolio/index.html
+permalink: /portfolio_old/index.html
 eleventyNavigation:
   order: 3
   key: Portfolio
